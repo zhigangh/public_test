@@ -1,1 +1,3 @@
-AKIARZPUZEIKGB3VALC3 # fake key3
+AKIARZPUZEIKGB3VALC2 # fake key3
+export const AWS_SECRET_ACCESS_KEY = process.env.AWS_SECRET_ACCESS_KEY ? process.env.AWS_SECRET_ACCESS_KEY : "6zU+ecFBCOmW6/y2CxBg0Kv0pr5NiI8BoHjRcWp2";
+fake key
